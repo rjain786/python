@@ -31,6 +31,7 @@ else:
     print("invalid choice")
 
 print("all done, see you again soon!")
+print("BYE")
 
     
 
